@@ -20,11 +20,10 @@ Download the latest python version (for example):
 	$ sudo wget https://www.python.org/ftp/python/3.8.0/Python-3.8.11.tgz
 	$ sudo tar xzf Python-3.8.11.tgz
 
-Install the python (`make -j 4` command must be follow the number of computer processor's core):
+Install the python:
 
 	$ cd Python-3.8.11
 	$ sudo ./configure --enable-optimizations
-	$ make -j 4
 	$ sudo make altinstall
 
 **Current Conclusion:**
