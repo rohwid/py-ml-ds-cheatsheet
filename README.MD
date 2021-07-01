@@ -12,7 +12,11 @@ Install the dependencies:
 
 ## Install Python (Include Updating the Python Version)
 
-This process might be update the previous python version in `/usr/local/bin/`.
+You need to remove the previous python which installed in `/usr/local/bin/` before update.
+
+Remove the previous installed python version. For example in python3.8 (skip this step if you're first time to install python):
+
+	$ sudo rm /usr/local/bin/*3.8*
 
 Download the latest python version (for example):
 
@@ -28,9 +32,9 @@ Install the python:
 
 **Current Conclusion:**
 
-The default or installed python by linux system will be saved in `/usr/bin/*3.6*` for **Python3.6**. For the **Python3.8**, it will be saved `/usr/bin/*3.8*`. . But, for the manually installed version it will be saved in `/usr/local/bin/*3.6*` for the **Python3.6** and `/usr/local/bin/*3.8*` for the **Python3.8**.
+The default or installed python by linux system will be saved in `/usr/bin/*3.6*` for **Python3.6**. For the **Python3.8**, it will be saved `/usr/bin/*3.8*`. But, for the manually installed version it will be saved in `/usr/local/bin/*3.6*` for the **Python3.6** and `/usr/local/bin/*3.8*` for the **Python3.8**.
 
-## Handle Multiple Version by Changing with Update Alternative
+## Handle Multiple Python Version by Changing with Update Alternative
 
 Set the ID of each python version in Update Alternative
 
