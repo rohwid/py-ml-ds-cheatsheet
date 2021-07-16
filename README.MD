@@ -25,7 +25,9 @@ Download the latest python version (for example):
 	$ sudo tar xzf Python-3.8.11.tgz
 
 Install the python:
-
+	
+	$ sudo apt install liblzma-dev -y
+	$ sudo apt install lzma -y
 	$ cd Python-3.8.11
 	$ sudo ./configure --enable-optimizations
 	$ sudo make altinstall

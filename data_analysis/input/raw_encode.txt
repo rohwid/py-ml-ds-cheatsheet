@@ -1,0 +1,4 @@
+Daftar\tO\nProfesi\tO\nYang\tO\nSiap\tO\nKerja\tO\ndari\tO\nRumah\tO\nVersi\tO\nAnji\tB-PER\nJAKARTA\tO\n-\tO\nAnji\tB-PER\nmembuat\tO\ndaftar\tO\norang\tO\nyang\tO\nsiap\tO\nbekerja\tO\ndari\tO\nrumah\tO\n.\tO\n
+Di\tO\nmana\tO\nsaat\tO\nini\tO\n,\tO\npara\tO\npekerja\tO\nmemang\tO\ndiimbau\tO\nuntuk\tO\nbekerja\tB-EVENT\ndari\tI-EVENT\nrumah\tI-EVENT\nguna\tO\nmeminimalisasi\tB-EVENT\npenyebaran\tI-EVENT\nvirus\tO\ncorona\tO\n(\tO\nCovid\tO\n-\tO\n19\tO\n)\tO\ndi\tO\nperkantoran\tO\n.\tO\n
+Lewat\tO\nakun\tO\nTwitter\tO\npribadinya\tO\n,\tO\nAnji\tB-PER\nmenyebut\tO\nada\tO\ntiga\tO\npekerjaan\tO\nyang\tO\nmenurut\tO\ndia\tB-REFERENT\npaling\tO\nsiap\tO\ndikerjakan\tO\ndari\tO\nrumah\tO\n.\tO\n
+Pertama\tO\nadalah\tO\nkreator\tB-TITLE\nkonten\tI-TITLE\n,\tO\nyang\tO\nmenurut\tO\nAnji\tB-PER\ntetap\tO\nbisa\tO\nbekerja\tO\nmaksimal\tO\ndi\tO\nrumah\tO\ndalam\tO\nsituasi\tO\napapun\tO\n.\tO\n\n
