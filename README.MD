@@ -125,3 +125,17 @@ Use this command to exit or deactivate the virtual environment:
 
     $ deactivate
 
+## **Static Virtual Environment in VSCode (Optional)**
+
+First, Install `pylint` in your virtual environment:
+
+	$ pip install pylint
+
+Set VSCode to load the virtual environment in `File > Preferences > Settings` and search `Python`. Bellow the `Python: Default Interpreter Path` set the value to your python executable from the virtual envoronment. For example:
+
+	/home/rohwid/PyEnvironment/work-3.8.11-all-packages/bin/python
+
+And bellow the `Python > Linting: Pylint Path` set the value to your python executable from the virtual envoronment. For example:
+
+	/home/rohwid/PyEnvironment/work-3.8.11-all-packages/bin/pylint
+
